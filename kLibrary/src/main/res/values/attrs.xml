@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KLoadingView">
+        <!-- 最大弧颜色 -->
+        <attr name="klv_first_arc_color" format="color" />
+        <attr name="klv_sec_arc_color" format="color" />
+        <attr name="klv_trd_arc_color" format="color" />
+        <attr name="klv_arc_width" format="dimension" />
+        <attr name="klv_arc_height" format="dimension" />
+        <attr name="klv_arc_stroke_width" format="dimension" />
+    </declare-styleable>
+
+</resources>
