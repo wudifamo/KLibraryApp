@@ -10,4 +10,7 @@
         <attr name="klv_arc_stroke_width" format="dimension" />
     </declare-styleable>
 
+    <declare-styleable name="KStepView">
+        <attr name="ksv_count" format="integer" />
+    </declare-styleable>
 </resources>

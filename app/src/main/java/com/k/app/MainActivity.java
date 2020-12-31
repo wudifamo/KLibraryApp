@@ -18,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        final KProgressView pv = findViewById(R.id.pv);
-        pv.setProgress(1f, "2091");
+//        final KProgressView pv = findViewById(R.id.pv);
+//        pv.setProgress(1f, "2091");
     }
 
     public void onClick(View view) {
