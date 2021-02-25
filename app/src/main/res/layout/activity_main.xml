@@ -28,7 +28,13 @@
     <!--        android:id="@+id/pv"-->
     <!--        android:layout_width="match_parent"-->
     <!--        android:layout_height="wrap_content" />-->
-    <com.kzq.library.widget.KStepView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+    <!--    <com.kzq.library.widget.KStepView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content" />-->
+    <com.kzq.library.widget.KLoadingRectView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" />
+
+
 </FrameLayout>

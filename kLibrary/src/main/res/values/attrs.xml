@@ -13,4 +13,12 @@
     <declare-styleable name="KStepView">
         <attr name="ksv_count" format="integer" />
     </declare-styleable>
+    <declare-styleable name="KLoadingRectView">
+        <attr name="klrv_count" format="integer" />
+        <attr name="klrv_gap" format="dimension" />
+        <attr name="klrv_rect_width" format="dimension" />
+        <attr name="klrv_duration" format="integer" />
+        <attr name="klrv_color" format="color" />
+        <attr name="klrv_jump_height" format="dimension" />
+    </declare-styleable>
 </resources>
