@@ -6,4 +6,6 @@ loading控件,小球砸在文字上弯曲回弹,外圈的线追逐效果   有�
 
 ![loading](https://github.com/wudifamo/TestTinker/blob/master/gif/loading.gif)
 ![switch](https://github.com/wudifamo/TestTinker/blob/master/gif/switch.gif)
+
+一个方块跳跃的loading,不过效果还没调完.还有一些小的控件没有截图
 ![switch](https://github.com/wudifamo/TestTinker/blob/master/gif/rect_loading.gif)
