@@ -5,36 +5,39 @@
     android:id="@+id/root_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
     android:onClick="onClick"
+    android:background="#0B71F0"
     tools:context=".MainActivity">
     <!--    android:background="#0B71F0"-->
 
-    <!--            <com.kzq.library.widget.KLoadingView-->
-    <!--                android:layout_width="wrap_content"-->
-    <!--                android:layout_height="wrap_content"-->
-    <!--                app:klv_arc_height="200dp"-->
-    <!--                app:klv_arc_stroke_width="20dp"-->
-    <!--                app:klv_arc_width="200dp"-->
-    <!--                app:klv_first_arc_color="#FFFFFF" />-->
-
-    <!--    <com.kzq.library.widget.KSwitchView-->
-    <!--        android:id="@+id/switch_btn"-->
-    <!--        android:layout_width="wrap_content"-->
-    <!--        android:layout_height="wrap_content"-->
-    <!--        android:layout_gravity="center" />-->
-
-    <!--    <com.kzq.library.widget.KProgressView-->
-    <!--        android:id="@+id/pv"-->
-    <!--        android:layout_width="match_parent"-->
-    <!--        android:layout_height="wrap_content" />-->
-    <!--    <com.kzq.library.widget.KStepView-->
-    <!--        android:layout_width="match_parent"-->
-    <!--        android:layout_height="wrap_content" />-->
-    <com.kzq.library.widget.KLoadingRectView
+    <com.kzq.library.widget.KLoadingView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center"
+        app:klv_arc_height="200dp"
+        app:klv_arc_stroke_width="20dp"
+        app:klv_arc_width="200dp"
+        app:klv_first_arc_color="#FFFFFF" />
 
+<!--        <com.kzq.library.widget.KSwitchView-->
+<!--            android:id="@+id/switch_btn"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center" />-->
 
+<!--        <com.kzq.library.widget.KProgressView-->
+<!--            android:id="@+id/pv"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content" />-->
+<!--        <com.kzq.library.widget.KStepView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content" />-->
+<!--        <com.kzq.library.widget.KLoadingRectView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center" />-->
+
+    <!--    <com.kzq.library.widget.chart.LineBarChart-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="120dp" />-->
 </FrameLayout>

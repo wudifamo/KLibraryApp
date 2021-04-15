@@ -25,7 +25,7 @@ public class KLoadingView extends WrappedView {
     /**
      * 默认弧宽度
      */
-    private static final int DEFAULT_ARC_WIDTH = 20;
+    private static final int DEFAULT_ARC_WIDTH = 15;
     /**
      * 默认第二个弧的长度
      */
